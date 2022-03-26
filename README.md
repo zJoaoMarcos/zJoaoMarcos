@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at [PATRIANI](https://www.construtorapatriani.com.br/)
 
-- 👨‍💻 All of my projects are available at [zJoaoMarcos](https://github.com/zJoaoMarcos)
+- 👨‍💻 All of my projects are available at [zJoaoMarcos](https://github.com/zJoaoMarcos?tab=repositories)
 
 - ⚡ Fun fact **always smiling 😁**
 
