@@ -4,7 +4,7 @@
 
 - 🔥 7º semester of computer engineering 
 
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning Node JS and React JS
 
 - 🔭 I’m currently working at [PATRIANI](https://www.construtorapatriani.com.br/)
 
