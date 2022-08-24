@@ -2,9 +2,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Marcos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zJoaoMarcos&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 7º semester of computer engineering 
+- 🔥 8º semester of computer engineering 
 
-- 🌱 I’m currently learning Node JS and React JS
+- 🌱 I’m currently learning Node JS, React JS and TypeScript
 
 - 🔭 I’m currently working at [PATRIANI](https://www.construtorapatriani.com.br/)
 
