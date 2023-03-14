@@ -1,8 +1,7 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/zJoaoMarcos/3ecf090a59141a77912213a501b82524/raw/90f4eb3196e491923282a1f0ac21cf1b10391fe6/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Marcos</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zJoaoMarcos&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 8º semester of computer engineering 
+<h1 align="left">Hi, I'm João Marcos</h1>
+
+- 🔥 9º semester of computer engineering 
 
 - 🌱 I’m currently learning Node JS, React JS and TypeScript
 
@@ -17,6 +16,7 @@
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -24,15 +24,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=zJoaoMarcos&show_icons=true&theme=vision-friendly-dark"  alt="joaomarcos's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zJoaoMarcos&layout=compact&theme=vision-friendly-dark" alt="joaomarcos's most languages"/>
-</p>
 
 <br><br>
 
