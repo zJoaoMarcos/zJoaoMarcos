@@ -3,15 +3,12 @@
 
 - 🌐 My website [JonasWorld](https://www.devjonas.com/)
 
-- 🔥 9º semester of computer engineering 
 
-- 🌱 I’m currently learning Node JS, React JS and TypeScript
+- 🌱 I’m currently learning AI.
 
 - 🔭 I’m currently working at [PATRIANI](https://www.construtorapatriani.com.br/)
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/zJoaoMarcos?tab=repositories)
-
-- ⚡ Fun fact **always smiling 😁**
 
 ## 🛠 &nbsp;Tech Stack
 
