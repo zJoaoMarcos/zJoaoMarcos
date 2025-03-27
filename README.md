@@ -12,12 +12,15 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
+![Styled Components](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=styledcomponents)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Langchain](https://img.shields.io/badge/-langchain-05122A?style=flat&logo=langchain)&nbsp;
+![Langchain](https://img.shields.io/badge/-Langchain-05122A?style=flat&logo=langchain)&nbsp;
+![Langgraph](https://img.shields.io/badge/-Langgraph-05122A?style=flat&logo=langchain)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 ## 👨🏽‍🦲 &nbsp;Social Links
