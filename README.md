@@ -4,7 +4,7 @@
 - 🌐 My website [JonasWorld](https://www.devjonas.com/)
 
 
-- 🌱 I’m currently learning AI.
+- 🌱 I’m currently learning AI and Java.
 
 - 🔭 I’m currently working at [PATRIANI](https://www.construtorapatriani.com.br/)
 
