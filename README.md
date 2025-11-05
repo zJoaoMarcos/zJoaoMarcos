@@ -4,9 +4,9 @@
 - 🌐 My website [JonasWorld](https://www.devjonas.com/)
 
 
-- 🌱 I’m currently learning AI and Java.
+- 🌱 I’m currently learning AI.
 
-- 🔭 I’m currently working at [PATRIANI](https://www.construtorapatriani.com.br/)
+- 🔭 I’m currently working at [Cyrela](https://www.cyrela.com.br)
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/zJoaoMarcos?tab=repositories)
 
