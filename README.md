@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working at [Cyrela](https://www.cyrela.com.br) as a Full Stack Developer on the AI team
 - 🤖 Building multi-agent systems for customer experience, financial and personal data automation
-- 🌱 I'm currently deepening my knowledge in AI Agents and Cloud Architecture
+- 🌱 I'm currently deepening my knowledge in Java ☕️ and Cloud Architecture
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/zJoaoMarcos?tab=repositories)
 - 📫 Reach me at joaomarcosm.silva@outlook.com
 
